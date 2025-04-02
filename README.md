@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jasshu01
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m an Android Developer
 
 <!---
 jasshu01/jasshu01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
