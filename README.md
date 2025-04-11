@@ -27,23 +27,7 @@ Welcome to my GitHub! I'm a passionate software engineer focused on building sca
 `Android Studio` `Xcode` `Git` `Postman` `VS Code`
 
 ---
-
-## 📱 Featured Projects
-
-### 🔹 [Wander Buddy](https://github.com/jasshu01/wander-buddy)
-> A travel companion app built with **Spring Boot + Flutter**, featuring Google Places API, authentication, and caching to minimize API costs.
-
-### 🔹 [MyLogger App](https://github.com/jasshu01/mylogger)
-> An Android app to capture and remotely log ANRs, exceptions, and crashes per device using **Java + Dropbox + Remote Logging**.
-
-### 🔹 [Smart Door Lock](https://github.com/jasshu01/smart-door-lock)
-> IoT-based RFID authentication system with **Arduino, MQTT, AWS IoT Core**, and real-time cloud logging.
-
-### 🔹 [iContacts App](https://github.com/jasshu01/icontacts-app)
-> A contact management Android app built in **Kotlin + SQLite**, featuring search, group filters, and a Material Design UI.
-
-> 🔍 Explore more projects in my [Repositories](https://github.com/jasshu01?tab=repositories)
-
+> 🔍 Explore projects in my [Repositories](https://github.com/jasshu01?tab=repositories)
 ---
 
 ## 📊 GitHub Stats
