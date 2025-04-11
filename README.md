@@ -5,6 +5,7 @@
 Welcome to my GitHub! I'm a passionate software engineer focused on building scalable, intuitive, and high-performance mobile applications across Android and iOS.
 
 - 🔭 Currently building native apps at [BiUP.ai](https://www.biup.ai)
+- 🌐 Portfolio: [jasshu-garg.vercel.app](https://jasshu-garg.vercel.app)
 - 🌱 Always learning better ways to architect clean and testable code
 - 💬 Ask me about Android, Kotlin, Jetpack Compose, SwiftUI, Flutter, Spring Boot, Firebase
 - 📫 Reach me at: [jashugarg266@gmail.com](mailto:jashugarg266@gmail.com)
@@ -48,4 +49,3 @@ Feel free to connect or collaborate — I’m always open to exciting new opport
 ---
 
 > *"You might not think that programmers are artists, but programming is an extremely creative profession." – John Romero*
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
