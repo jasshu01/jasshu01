@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a passionate software engineer focused on building sca
 `Kotlin` `Java` `Swift` `Dart` `SQL` `HTML/CSS` `JavaScript`
 
 **Mobile & Frameworks:**  
-`Android` `SwiftUI` `UIKit` `Flutter`
+`Android` `SwiftUI` `Flutter`
 
 **Backend & Databases:**  
 `Spring Boot` `MySQL` `Firebase` `REST APIs`
